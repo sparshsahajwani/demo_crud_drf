@@ -1,6 +1,6 @@
-run activate file form directory DEMO_API/venv/scripts/activate
+run activate file form directory demo_api/venv/scripts/activate 
 ".\DEMO_API\venv\scripts\activate" run it in cmd
-after that to run the project in DEMO_API director run command "python manage.py runserver"
+after that to run the project in demo_api director run command "python manage.py runserver"
 
 it will run locally on http://127.0.0.1:8000/ this url
 
